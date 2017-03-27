@@ -1,0 +1,9 @@
+{
+    "id": "Drills",
+    "version": "1.0.0",
+    "author": "oitsjustjose",
+    "displayName": "Drills",
+    "description": "A simple module adding Drills efficient on all materials!",
+    "dependencies": [],
+    "serverSideOnly": false
+}
